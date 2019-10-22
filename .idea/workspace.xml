@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a8ee219-7dc9-4273-9eaf-557a2d5cedb6" name="Default Changelist" comment="" />
+    <list default="true" id="3a8ee219-7dc9-4273-9eaf-557a2d5cedb6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/4x0f14XCKalspoaqAIiln9SDu96pU9uu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/6hWGqThAHgI-yS4zA_2IOYAPIeh-Pyhn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/6yhlrZJ0hXKaUPZSBQSYlhgnyqL7xAXT.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/9D1b1iE2M8_LotI43IyYwvrClx6E4-2F.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/C_x1D8HTBlyZoV41nVGmU5BwKx8ezvTq.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/DUDePMTQTBpGnS69s267swqN16b7sIRI.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/Iiyf8zbX0vrmrJZbwNAXl8uQFdJhHh64.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/IkrKVdcnldYCFQlQuDnUcK1MiNbDPXvu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/Lgo7UZkeSuQEZ18SXMau23wjH-f2osgU.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/THFGaa31a5fyM7MKHeiVXNjPmODtXYwf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/YmEyV66vnHJBdNXy9y8dK4gfp6imdoIx.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/mOp_g-rGEqTOUzhjLs1Il3mglqqfqKC1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/oy87hnmxe7XSObTjK2DWEaUO6oPTxsB4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/rs7oy4cgB24bKaOf-ncX5KpMjG2P8KZl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/vWjQI9h3mDpUFEnVW96UCdvhFHZz_coB.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sessions/z8vl-H3wBZJBXiJH77AFmuojO37DUvrw.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/index.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/index.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QjIMwWnm2sgCjC6xZDeKOyCvXG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -45,11 +75,25 @@
       <workItem from="1570431627154" duration="18781000" />
       <workItem from="1571036753738" duration="531000" />
       <workItem from="1571037524121" duration="30498000" />
-      <workItem from="1571393145923" duration="5613000" />
+      <workItem from="1571393145923" duration="6495000" />
+      <workItem from="1571673438286" duration="5164000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

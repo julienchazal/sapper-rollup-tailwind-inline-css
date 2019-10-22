@@ -40,6 +40,7 @@
 </script>
 
 <script>
+	import LeafletComponent from '../components/Leaflet.svelte'
 	import {onMount} from 'svelte'
 	export let release
 	export let dynamic = {};
@@ -66,6 +67,7 @@
 <svg class="inline-svg-icon">
 	<use xlink:href="#chat"></use>
 </svg>
+<LeafletComponent />
 
 {#if name }
 <p>{name} - {title} - {num_for_sale} en vente !</p>
