@@ -17,7 +17,7 @@
     "compression": "^1.7.1",
     "express-session": "^1.17.0",
     "leaflet": "^1.5.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "polka": "next",
     "postcss-preset-env": "^6.7.0",
     "rollup-plugin-svg-icons": "^2.0.0",
